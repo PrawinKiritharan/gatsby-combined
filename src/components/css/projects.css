@@ -1,0 +1,51 @@
+/* 
+.projects{
+    scroll-snap-align: start;
+} */
+/* 
+.projects{
+    position: sticky;
+    top: 0px;
+} */
+
+
+.projectBody{
+    scroll-snap-type: y mandatory;
+    height: 982px;
+    overflow-y: hidden;
+
+    overflow-x: hidden;
+}
+
+.pBodyChild{
+    scroll-snap-align: start;
+    
+}
+
+
+.container{
+    scroll-snap-type: y mandatory;
+    overflow-y: hidden;
+    height: 100svh;
+}
+
+section{
+    height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    scroll-snap-align: start;
+}
+
+.one{
+    background-color: rgb(208, 255, 255);
+}
+
+.two{
+    background-color: rgb(160, 255, 196);
+}
+
+.three{
+    background-color: rgb(255, 142, 194);
+}

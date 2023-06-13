@@ -1,0 +1,14 @@
+path {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 900;
+    animation: dash 0.8s linear forwards;
+    position: relative;
+    top: 327.42px;
+    transform: matrix(0.99,0.11,-0.12,0.99,0,0);
+  }
+  
+@keyframes dash {
+to {
+    stroke-dashoffset: 470;
+}
+}

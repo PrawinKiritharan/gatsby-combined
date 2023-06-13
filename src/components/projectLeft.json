@@ -1,0 +1,44 @@
+{
+    "netkno": {
+    
+        "title": "NetKno",
+        "date": "2022/2023",
+        "body": "Creating a new brand, website and web platform for Jeni Smith was such a fun challenge. Getting excited about networking, realising the potential of the work Jeni puts into spreading her love, knowledge and passion for networking.",
+        "links": [
+            {"BRANDING": "link"},
+            {"MVP": "link"},
+            {"WEBSITE": "link"}
+        ],
+        "tabsBefore": [],
+        "tabsAfter": ["Wowza!", "One Xp"]
+    },
+
+    "wowza": {
+
+        "title": "Wowza!",
+        "date": "2022/2023",
+        "body": "Creating a new brand, website and web platform for Jeni Smith was such a fun challenge. Getting excited about networking, realising the potential of the work Jeni puts into spreading her love, knowledge and passion for networking.",
+        "links": [
+            {"BRANDING": "link"},
+            {"ECOMMERCE": "link"}
+        ],
+        "tabsBefore": ["NetKno"],
+        "tabsAfter": ["One Xp"]
+
+    },
+
+    "onexp": {
+
+        "title": "One Xp",
+        "date": "2022/2023",
+        "body": "Creating a new brand, website and web platform for Jeni Smith was such a fun challenge. Getting excited about networking, realising the potential of the work Jeni puts into spreading her love, knowledge and passion for networking.",
+        "links": [
+            {"BRANDING": "link"},
+            {"UX": "link"},
+            {"NATIVE APP": "link"}
+        ],
+        "tabsBefore": [],
+        "tabsAfter": ["Wowza!", "One Xp"]
+
+    }
+}

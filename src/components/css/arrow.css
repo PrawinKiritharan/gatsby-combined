@@ -1,0 +1,26 @@
+/* @keyframes floatRight{  
+    from{background-color: black;}
+    to{background-color: aqua;}
+}
+
+.arrowBtn:hover>.arrow{
+    animation-name: "floatRight";
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+} */
+
+.arrowBtn:hover .arrow {
+    margin-left: 20px;
+}
+
+.arrow{
+    margin-left: 5px;
+}
+
+.arrowBtn{
+    margin-right: 84px;
+}
+
+.arrowBtn:hover{
+    filter:brightness(95%)
+}

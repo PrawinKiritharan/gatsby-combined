@@ -1,0 +1,42 @@
+.liquidToggle .background {
+    display: flex;
+    width: 720px;
+    height: 400px;
+    border-radius: 200px;
+    background-color: #C4C4C4;
+    cursor: pointer;
+    transition: all 500ms ease-in-out;
+    align-items: center;
+    
+}
+
+.liquidToggle .handleOff{
+    background-color: white;
+    border-radius: 50%;
+    height: 36.8px;
+    width: 37.33px;
+
+    position: relative;
+    top: 4.6px;
+    left: 4px;
+}
+
+.liquidToggle .handleOn{
+    background-color: white;
+    border-radius: 50%;
+    height: 36.8px;
+    width: 37.33px;
+
+    position: relative;
+    top: 4.6px;
+    left: 40px;
+}
+
+.frame{
+    margin-left: 40px;
+    height: 320px;
+}
+
+.liquidToggle input{
+    display: none;
+}
